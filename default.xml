@@ -472,9 +472,9 @@
 
   <!-- Specific Revolution projects -->
 
-  <project path="device/geeksphone/revolution" name="gpdroid/revo_android_device_geeksphone_revolution" revision="cm-11.0" />
-  <project path="cm11_patches" name="gpdroid/revo_cm11_patches" revision="cm-11.0" />
-  <project path="external/libvpx" name="gpdroid/revo_android_external_libvpx" groups="pdk" revision="cm-11.0" />
+  <project path="device/geeksphone/revolution" name="AgentSteel/revo_android_device_geeksphone_revolution" revision="cm-11.0" />
+  <project path="cm11_patches" name="AgentSteel/revo_cm11_patches" revision="cm-11.0" />
+  <project path="external/libvpx" name="AgentSteel/revo_android_external_libvpx" groups="pdk" revision="cm-11.0" />
   <project path="hardware/broadcom/libbt" name="android-ia/platform_hardware_broadcom_libbt" groups="pdk" revision="release/android-4.4.2_r1-ia2" />
   <project path="hardware/broadcom/wlan" name="android-ia/platform_hardware_broadcom_wlan" groups="broadcom_wlan" revision="release/android-4.4.2_r1-ia2" />
 </manifest>
